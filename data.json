@@ -1,0 +1,21 @@
+{
+    "postagens": [
+        {
+            "titulo": "",
+            "conteudo": "",
+            "data": "",
+            "comentarios": [
+                {
+                    "titulo": "",
+                    "conteudo": "",
+                    "data": ""
+                }
+            ],
+            "autor": {
+                "nome": "<nome-do-autor>",
+                "avatar": "<url-da-imagem>",
+                "cargo": "SITH | JEDI"
+            }
+        }
+    ]
+}
